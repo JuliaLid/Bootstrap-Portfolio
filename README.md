@@ -1,8 +1,7 @@
 # Bootstrap-Portfolio
-Build a portfolio layout using the Bootstrap CSS Framework
 
 ## Overview: 
-Homework assignment #2 - recreate the professional portfoloio site using the Bootserap grid system to control the layout.
+Homework assignment #2 - build a portfolio layout using the Bootstrap CSS Framework.
 
 ## Technology 
 * HTML
